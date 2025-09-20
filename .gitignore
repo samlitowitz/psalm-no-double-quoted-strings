@@ -1,4 +1,10 @@
 .*
-!.gitignore
+
+composer.lock
+
 vendor
 
+!.editorconfig
+!.gitattributes
+!.gitignore
+!.github/
